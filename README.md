@@ -4,6 +4,9 @@
 
 **Loruki Website** is a landing page for cloud hosting service.
 
+To see my project
+Netlify link: https://lorukiwebbpage.netlify.app
+
 ## Screenshot
 
 <div align="center">
