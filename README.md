@@ -1,6 +1,6 @@
 # loruki
 
-## Description
+## Description :
 
 **Loruki Website** is a landing page for cloud hosting service.
 
